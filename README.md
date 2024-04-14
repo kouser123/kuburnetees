@@ -1,6 +1,7 @@
  Kuburnetess will prodive the auto scalling capability
 
-   Auto scaling steps:
+Auto scaling steps:
+   
 Step1. Install Metric server
 
 Step2. Deploy sample app
